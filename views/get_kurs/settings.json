@@ -1,0 +1,10 @@
+
+{"bks":
+    {"id":"0","load":"on","url":"http://bcs-bank.com/export/quotes/csv.asp","time":"900","format":"csv","name":"БКС банк"},
+"bksonline":
+    {"id":"1","load":"on","url":"https://valuta.bcs-bank.com/export/v1/bankinform.ashx","time":"180","format":"xml","name":"БКС банк онлайн"},
+"finam":
+    {"id":"2","load":"on","url":"https://projecttomskplus.ru/api/Currency/?format=json","time":"300","format":"json","name":"Финам банк"},
+"fkopen":
+    {"id":"3","load":"on","url":"https://www.open.ru/common/img/uploaded/exchange/Currency.xml","time":"180","format":"xml","name":"ФК открытие"}   
+}

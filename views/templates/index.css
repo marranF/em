@@ -1,0 +1,45 @@
+header {
+	
+  text-align:center;
+  background:#B0C8C6
+  }
+
+article {
+padding-left: 18%;
+padding-right: 18%;
+padding-top:10px;
+padding-bottom:10px;
+text-align: justify;
+background:#DDECE9
+}
+
+
+footer {clear:both;
+background:#6A9CBD;}
+footer p{
+  font-size:14px;
+  text-align:center}
+  
+  
+ .side_right {
+
+   
+    padding: 10px; /* Поля */
+    width: 15%; /* Ширина сайдбара */
+    float: right; /* Обтекание слева */
+   }
+ .side_right h2{
+	 color:blue;
+ }  
+   
+.side_left{
+
+
+    padding: 10px; /* Поля */
+    width: 15%; /* Ширина сайдбара */
+    float: left; /* Обтекание слева */
+   }
+.side_left h2{
+	text-align: center;
+	color:red;
+}
